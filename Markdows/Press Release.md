@@ -1,4 +1,4 @@
-# 🛰️ StrixIA – Sistema de Monitoramento Autônomo com IA para Dispersão de Aves Predatórias
+# 🛰️ Strix IA – Sistema de Monitoramento Autônomo com IA para Dispersão de Aves Predatórias
 
 A Strix Labs Corp anuncia o lançamento oficial do StrixIA, uma solução inteligente que redefine o monitoramento agrícola ao integrar visão computacional, inteligência artificial embarcada e automação para proteger plantações de aves predadoras de forma autônoma, precisa e sustentável.
 
