@@ -1,6 +1,6 @@
 # 🛰️ Strix IA – Sistema de Monitoramento Autônomo com IA para Dispersão de Aves Predatórias
 
-FAQ - Frequent Asked Questions
+FAQ - Frequently Asked Questions
 
 ## 1. Por que esse projeto é importante?
 R.: A presença de aves predatórias nas lavouras pode gerar perdas diretas de até 20% da produção, especialmente em culturas como arroz, milho, trigo, frutas e sementes expostas. O StrixIA oferece uma solução inteligente e automatizada para monitorar e afastar essas aves, aumentando a produtividade e reduzindo prejuízos de forma sustentável.
